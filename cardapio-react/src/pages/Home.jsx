@@ -1,8 +1,7 @@
 function Home() {
   var arroz = 12
 
-  if (arroz > 12) {
-  }
+  CONSOLE.LOG("teste")
 
   return (
     
