@@ -2,7 +2,6 @@ function Home() {
   var arroz = 12
 
   if (arroz > 12) {
-    console.log("Vc foi banido")
   }
 
   return (
